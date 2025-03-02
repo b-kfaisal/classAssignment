@@ -1,0 +1,16 @@
+Registration Form
+Enter Your Name
+Enter Your Last Name
+Enter Your Password
+ReEnter Your Password
+Enter Your Email
+Enter Your Mobile
+Enter Your Address
+Select Your Address
+Select Your Gender
+Select Your Hobbies
+Date of Birth
+Select Your Country
+Upload Your Pic
+
+
